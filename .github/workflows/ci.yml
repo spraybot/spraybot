@@ -1,0 +1,24 @@
+name: Spraybot Repos Check
+
+on: [push]
+
+jobs:
+  format_and_validate:
+    name: Format and Validity
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone project
+        uses: actions/checkout@v2
+      - name: Setup SSH keys
+        uses: webfactory/ssh-agent@v0.5.4
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+      - name: Install dependencies
+        run: python3 -m pip install vcstool yamllint
+      - name: Validate formatting
+        run: >
+          yamllint spraybot.repos
+          -f github
+          -d "{extends: default, rules: {document-start: {present: false}, key-ordering: {}}}"
+      - name: Validate repositories
+        run: vcs validate --input spraybot.repos
