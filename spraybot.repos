@@ -1,0 +1,13 @@
+repositories:
+  drivers/ros2_ouster_drivers:
+    type: git
+    url: git@github.com:spraybot/ros2_ouster_drivers.git
+    version: ros2
+  drivers/vectornav:
+    type: git
+    url: git@github.com:spraybot/vectornav.git
+    version: master
+  spraybot_bringup:
+    type: git
+    url: git@github.com:spraybot/spraybot.git
+    version: main
