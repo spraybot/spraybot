@@ -1,4 +1,8 @@
 repositories:
+  drivers/husky:
+    type: git
+    url: git@github.com:spraybot/husky.git
+    version: galactic-devel
   drivers/ros2_ouster_drivers:
     type: git
     url: git@github.com:spraybot/ros2_ouster_drivers.git
@@ -10,4 +14,12 @@ repositories:
   spraybot_bringup:
     type: git
     url: git@github.com:spraybot/spraybot.git
+    version: main
+  spraybot_navigation:
+    type: git
+    url: git@github.com:spraybot/spraybot_navigation.git
+    version: main
+  spraybot_simulation:
+    type: git
+    url: git@github.com:spraybot/spraybot_simulation.git
     version: main
