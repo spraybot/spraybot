@@ -1,6 +1,6 @@
 # spraybot
 
-This repos serves as the base to clone all the repos needed for the spraybot project
+This repos serves as the base to clone all the repos needed for the spraybot project.
 
 ## Setup Spraybot Workspace
 
@@ -9,8 +9,8 @@ Create workspace and clone all repos:
 ```bash
 mkdir -p ~/spraybot_ws/src
 cd ~/spraybot_ws
-wget https://raw.githubusercontent.com/spraybot/spraybot/main/spraybot.repos
-vcs import src < spraybot.repos
+git clone git@github.com:spraybot/spraybot.git
+vcs import src < spraybot/spraybot.repos
 ```
 
 Install dependencies for all the packages:
@@ -21,6 +21,10 @@ sudo rosdep init
 rosdep update
 rosdep install --from-paths src --ignore-src -y
 ```
+
+## Extended Installation
+Some other installation steps are needed for some applications. See the following [Extended Installation](https://github.com/spraybot/spraybot/wiki/Extended-Installation) wiki for detailed instructions.
+
 
 ## Tooling
 
