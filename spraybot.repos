@@ -10,10 +10,10 @@ repositories:
   drivers/vectornav:
     type: git
     url: git@github.com:spraybot/vectornav.git
-    version: master
+    version: ros2
   spraybot_bringup:
     type: git
-    url: git@github.com:spraybot/spraybot.git
+    url: git@github.com:spraybot/spraybot_bringup.git
     version: main
   spraybot_navigation:
     type: git
