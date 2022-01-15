@@ -23,6 +23,10 @@ repositories:
     type: git
     url: git@github.com:spraybot/spraybot_simulation.git
     version: main
+  spraybot_utils:
+    type: git
+    url: git@github.com:spraybot/spraybot_utils.git
+    version: main
   utils/mapviz:
     type: git
     url: https://github.com/spraybot/mapviz
