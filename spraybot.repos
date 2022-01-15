@@ -29,5 +29,5 @@ repositories:
     version: main
   utils/mapviz:
     type: git
-    url: https://github.com/spraybot/mapviz
-    version: galactic-devel
+    url: git@github.com:spraybot/mapviz.git
+    version: main
