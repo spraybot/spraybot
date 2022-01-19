@@ -11,10 +11,6 @@ repositories:
     type: git
     url: git@github.com:spraybot/vectornav.git
     version: main
-  utils/mapviz:git pus
-    type: git
-    url: https://github.com/spraybot/mapviz
-    version: main
   spraybot_bringup:
     type: git
     url: git@github.com:spraybot/spraybot_bringup.git
