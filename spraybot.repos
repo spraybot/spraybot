@@ -33,5 +33,5 @@ repositories:
     version: main
   utils/velodyne_simulator:
     type: git
-    url: https://github.com/spraybot/velodyne_simulator
+    url: git@github.com:spraybot/velodyne_simulator.git
     version: main
