@@ -36,6 +36,7 @@ Some other installation steps are needed for some applications. See the followin
 | [husky](https://github.com/spraybot/husky) | [![husky_ci](https://github.com/spraybot/husky/actions/workflows/ci.yml/badge.svg)](https://github.com/spraybot/husky/actions/workflows/ci.yml) |
 | [ros2_ouster_drivers](https://github.com/spraybot/ros2_ouster_drivers) | [![ROS2 CI (Build Only)](https://github.com/spraybot/ros2_ouster_drivers/actions/workflows/ci.yml/badge.svg)](https://github.com/spraybot/ros2_ouster_drivers/actions/workflows/ci.yml) |
 | [vectornav](https://github.com/spraybot/vectornav) | [![ROS2 CI (Build Only)](https://github.com/spraybot/vectornav/actions/workflows/ci.yml/badge.svg)](https://github.com/spraybot/vectornav/actions/workflows/ci.yml) |
+| [pcl_processor](https://github.com/spraybot/pcl_processor) | None |
 
 ## Tooling
 
