@@ -23,6 +23,10 @@ repositories:
     type: git
     url: git@github.com:spraybot/spraybot_navigation.git
     version: main
+  spraybot_perception:
+    type: git
+    url: git@github.com:spraybot/spraybot_perception.git
+    version: main
   spraybot_simulation:
     type: git
     url: git@github.com:spraybot/spraybot_simulation.git

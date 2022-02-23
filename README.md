@@ -30,6 +30,7 @@ Some other installation steps are needed for some applications. See the followin
 | --- | --- |
 | [spraybot_bringup](https://github.com/spraybot/spraybot_bringup) | [![ROS2 CI](https://github.com/spraybot/spraybot_bringup/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/spraybot/spraybot_bringup/actions/workflows/ci.yml) |
 | [spraybot_navigation](https://github.com/spraybot/spraybot_navigation) | [![ROS2 CI](https://github.com/spraybot/spraybot_navigation/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/spraybot/spraybot_navigation/actions/workflows/ci.yml) |
+| [spraybot_perception](https://github.com/spraybot/spraybot_perception) | [![ROS2 CI](https://github.com/spraybot/spraybot_perception/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/spraybot/spraybot_perception/actions/workflows/ci.yaml) |
 | [spraybot_simulation](https://github.com/spraybot/spraybot_simulation) | [![ROS2 CI](https://github.com/spraybot/spraybot_simulation/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/spraybot/spraybot_simulation/actions/workflows/ci.yml) |
 | [spraybot_utils](https://github.com/spraybot/spraybot_utils) | [![ROS2 CI](https://github.com/spraybot/spraybot_utils/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/spraybot/spraybot_utils/actions/workflows/ci.yml) |
 | [mapviz](https://github.com/spraybot/mapviz) | [![CI](https://github.com/spraybot/mapviz/actions/workflows/main.yml/badge.svg)](https://github.com/spraybot/mapviz/actions/workflows/main.yml)
