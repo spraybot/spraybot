@@ -47,6 +47,10 @@ repositories:
     type: git
     url: git@github.com:spraybot/rqt_reconfigure.git
     version: main
+  utils/spraybot_lifecycle_manager:
+    type: git
+    url: git@github.com:spraybot/spraybot_lifecycle_manager.git
+    version: main 
   utils/velodyne_simulator:
     type: git
     url: git@github.com:spraybot/velodyne_simulator.git
