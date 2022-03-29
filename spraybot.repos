@@ -50,7 +50,7 @@ repositories:
   utils/spraybot_lifecycle_manager:
     type: git
     url: git@github.com:spraybot/spraybot_lifecycle_manager.git
-    version: main 
+    version: main
   utils/velodyne_simulator:
     type: git
     url: git@github.com:spraybot/velodyne_simulator.git
