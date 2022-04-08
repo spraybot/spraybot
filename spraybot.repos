@@ -15,6 +15,10 @@ repositories:
     type: git
     url: git@github.com:spraybot/pcl_processor.git
     version: main
+  ros2_lifecycle_py:
+    type: git
+    url: git@github.com:spraybot/ros2_lifecycle_py.git
+    version: main
   spraybot_bringup:
     type: git
     url: git@github.com:spraybot/spraybot_bringup.git
