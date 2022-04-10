@@ -23,6 +23,10 @@ repositories:
     type: git
     url: git@github.com:spraybot/spraybot_bringup.git
     version: main
+  spraybot_behavior_tree:
+    type: git
+    url: git@github.com:spraybot/spraybot_behavior_tree.git
+    version: main
   spraybot_navigation:
     type: git
     url: git@github.com:spraybot/spraybot_navigation.git
