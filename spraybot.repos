@@ -44,6 +44,7 @@ repositories:
     url: git@github.com:spraybot/spraybot_utils.git
     version: main
   utils/Groot:
+    type: git
     url: git@github.com:spraybot/Groot.git
     version: main
   utils/imu_tools:
