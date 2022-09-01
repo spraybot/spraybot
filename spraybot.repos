@@ -54,6 +54,10 @@ repositories:
     type: git
     url: git@github.com:spraybot/mapviz.git
     version: main
+  utils/rosbag2_storage_mcap:
+    type: git
+    url: git@github.com:spraybot/rosbag2_storage_mcap.git
+    version: main
   utils/rqt_reconfigure:
     type: git
     url: git@github.com:spraybot/rqt_reconfigure.git
