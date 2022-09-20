@@ -6,7 +6,7 @@ repositories:
   drivers/realsense:
     type: git
     url: git@github.com:spraybot/realsense-ros.git
-    version: main
+    version: ros2-beta
   drivers/ros2_ouster_drivers:
     type: git
     url: git@github.com:spraybot/ros2_ouster_drivers.git
@@ -31,6 +31,10 @@ repositories:
     type: git
     url: git@github.com:spraybot/spraybot_bringup.git
     version: main
+  spraybot_msgs:
+    type: git
+    url: git@github.com:spraybot/spraybot_msgs.git
+    version: main
   spraybot_navigation:
     type: git
     url: git@github.com:spraybot/spraybot_navigation.git
@@ -46,10 +50,13 @@ repositories:
   spraybot_utils:
     type: git
     url: git@github.com:spraybot/spraybot_utils.git
-    version: main
   utils/Groot:
     type: git
     url: git@github.com:spraybot/Groot.git
+    version: main
+  utils/autoware_tools:
+    type: git
+    url: git@github.com:spraybot/autoware_tools.git
     version: main
   utils/imu_tools:
     type: git
