@@ -23,6 +23,18 @@ repositories:
     type: git
     url: git@github.com:spraybot/pcl_processor.git
     version: main
+  route_planner:
+    type: git
+    url: git@github.com:spraybot/route_planner.git
+    version: main
+  route_planner_msgs:
+    type: git
+    url: git@github.com:spraybot/route_planner_msgs.git
+    version: main
+  semantic:
+    type: git
+    url: git@github.com:spraybot/semantic.git
+    version: master
   spraybot_behavior_tree:
     type: git
     url: git@github.com:spraybot/spraybot_behavior_tree.git
