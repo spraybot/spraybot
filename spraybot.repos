@@ -15,6 +15,10 @@ repositories:
     type: git
     url: git@github.com:spraybot/vectornav.git
     version: main
+  lifecycle_manager:
+    type: git
+    url: git@github.com:spraybot/lifecycle_manager.git
+    version: main
   navigation2:
     type: git
     url: git@github.com:spraybot/navigation2.git
@@ -42,10 +46,6 @@ repositories:
   spraybot_bringup:
     type: git
     url: git@github.com:spraybot/spraybot_bringup.git
-    version: main
-  spraybot_lifecycle_manager:
-    type: git
-    url: git@github.com:spraybot/spraybot_lifecycle_manager.git
     version: main
   spraybot_msgs:
     type: git
