@@ -3,10 +3,6 @@ repositories:
     type: git
     url: git@github.com:spraybot/husky.git
     version: main
-  drivers/realsense:
-    type: git
-    url: git@github.com:spraybot/realsense-ros.git
-    version: ros2-beta
   drivers/ros2_ouster_drivers:
     type: git
     url: git@github.com:spraybot/ros2_ouster_drivers.git
@@ -81,6 +77,10 @@ repositories:
   utils/rqt_reconfigure:
     type: git
     url: git@github.com:spraybot/rqt_reconfigure.git
+    version: main
+  utils/spatio_temporal_voxel_layer:
+    type: git
+    url: git@github.com:spraybot/spatio_temporal_voxel_layer.git
     version: main
   utils/teleop_twist_joy:
     type: git
