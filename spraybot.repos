@@ -90,7 +90,7 @@ repositories:
   utils/spatio_temporal_voxel_layer:
     type: git
     url: git@github.com:spraybot/spatio_temporal_voxel_layer.git
-    version: main
+    version: ros2
   utils/teleop_twist_joy:
     type: git
     url: git@github.com:spraybot/teleop_twist_joy.git
