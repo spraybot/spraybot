@@ -19,6 +19,10 @@ repositories:
     type: git
     url: git@github.com:spraybot/lifecycle_manager.git
     version: main
+  mppic:
+    type: git
+    url: git@github.com:spraybot/mppic.git
+    version: dev
   navigation2:
     type: git
     url: git@github.com:spraybot/navigation2.git
@@ -99,3 +103,4 @@ repositories:
     type: git
     url: git@github.com:spraybot/velodyne_simulator.git
     version: main
+  
