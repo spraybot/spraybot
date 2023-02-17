@@ -15,7 +15,7 @@ repositories:
     type: git
     url: git@github.com:spraybot/vectornav.git
     version: main
-  kiss_icp:
+  kiss-icp:
     type: git
     url: git@github.com:spraybot/kiss-icp.git
     version: main
@@ -107,4 +107,3 @@ repositories:
     type: git
     url: git@github.com:spraybot/velodyne_simulator.git
     version: main
-  
