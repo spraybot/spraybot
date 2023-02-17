@@ -75,10 +75,6 @@ repositories:
     type: git
     url: git@github.com:spraybot/spraybot_utils.git
     version: main
-  teb_local_planner:
-    type: git
-    url: git@github.com:spraybot/teb_local_planner.git
-    version: ros2-master
   utils/Groot:
     type: git
     url: git@github.com:spraybot/Groot.git
