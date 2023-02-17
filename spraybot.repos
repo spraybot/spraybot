@@ -1,8 +1,4 @@
 repositories:
-  costmap_converter:
-    type: git
-    url: git@github.com:spraybot/costmap_converter.git
-    version: ros2
   drivers/husky:
     type: git
     url: git@github.com:spraybot/husky.git
