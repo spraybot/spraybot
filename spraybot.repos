@@ -75,10 +75,6 @@ repositories:
     type: git
     url: git@github.com:spraybot/Groot.git
     version: main
-  utils/autoware_tools:
-    type: git
-    url: git@github.com:spraybot/autoware_tools.git
-    version: main
   utils/mapviz:
     type: git
     url: git@github.com:spraybot/mapviz.git
