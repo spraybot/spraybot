@@ -13,7 +13,7 @@ repositories:
     version: main
   kiss-icp:
     type: git
-    url: git@github.com:spraybot/kiss-icp.git
+    url: git@github.com:PRBonn/kiss-icp.git
     version: main
   lifecycle_manager:
     type: git
