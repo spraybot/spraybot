@@ -79,6 +79,10 @@ repositories:
     type: git
     url: git@github.com:spraybot/mapviz.git
     version: main
+  utils/marti_common:
+    type: git
+    url: git@github.com:swri-robotics/marti_common.git
+    version: ros2-devel
   utils/rqt_reconfigure:
     type: git
     url: git@github.com:spraybot/rqt_reconfigure.git
